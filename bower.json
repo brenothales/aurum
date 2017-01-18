@@ -1,0 +1,26 @@
+{
+  "name": "aurum",
+  "description": "Desafio para teste de seleção na melhor empresa de soluções para adv - Florianopolis",
+  "main": "index.js",
+  "authors": [
+    "Breno Thales breno.thales@gmail.com"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "angularjs#^1.6.1",
+    "angular-cookies": "^1.6.1",
+    "angular-i18n": "^1.6.1",
+    "angular-chart.js": "^1.1.1",
+    "chart.js": "^2.4.0",
+    "weather-icons": "^2.0.10"
+  }
+}
